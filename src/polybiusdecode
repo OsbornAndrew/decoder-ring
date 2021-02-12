@@ -1,4 +1,4 @@
-let decodeChart = {
+const decodeChart = {
   "11" : "a",
   "21" : "b",
   "31" : "c",

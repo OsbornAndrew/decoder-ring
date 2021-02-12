@@ -1,4 +1,4 @@
-let encodeChart = {
+const encodeChart = {
   "a" : "11",
   "b" : "21",
   "c" : "31",
